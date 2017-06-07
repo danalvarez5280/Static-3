@@ -644,7 +644,7 @@ tr {
 /*Links Area Hovers*/
 
 .social-media:hover,
-.last-inputs-btn:hover {
+.copy-btn:hover {
   cursor: pointer;
   opacity: .6;
 }
